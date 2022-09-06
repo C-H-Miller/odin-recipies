@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+}
+
+
+.recipies {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-weight: 100;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.extras {
+    align-items: center;
+
+}
+
+.title {
+    color: rgba(134, 69, 134, 0.801);
+    text-align: center;
+    background-color: yellow;
+}
